@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image</folder>
+	<filename>loopy_154.jpg.jpg</filename>
+	<path>D:\PycharmProjects\2024A\标注\Image\loopy_154.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>792</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loopy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>112</ymin>
+			<xmax>381</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
