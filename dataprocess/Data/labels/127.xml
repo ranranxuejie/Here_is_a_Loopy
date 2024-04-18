@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newimages</folder>
+	<filename>127.jpg</filename>
+	<path>D:\PycharmProjects\2024A\标注\newimages\127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loopy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>39</ymin>
+			<xmax>449</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>
