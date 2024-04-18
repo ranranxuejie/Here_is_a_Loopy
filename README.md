@@ -50,11 +50,9 @@ whl下载：建议在网站[Links for torch (tsinghua.edu.cn)](https://pypi.tuna
 
 配置文件在`YOLO/loopy.yaml`
 
-2 训练
 
 运行`detect.py`，epochs训练轮数可自定义
 
-3 预测
 
 训练所得模型在`runs/detect/train/weights/`，后缀.pt
 
